@@ -40,7 +40,7 @@
          withViewY------为文字说明所在的view的y值（从屏幕最顶端开始计算）
          withViewHeight-----为collectionView的高度
      */
-    [XJL_Slide addChildWithId:self withTitleArray:titleArray withNumberCount:3 withSelectLineViewColor:nil withNomalColorArray:nil withSelectColorArray:nil withChildVCsArray:childVCsArray withViewY:64 withViewHeight:500];
+    [XJL_Slide addChildWithId:self withTitleArray:titleArray withNumberCount:4 withSelectLineViewColor:nil withNomalColorArray:nil withSelectColorArray:nil withChildVCsArray:childVCsArray withViewY:64 withViewHeight:500];
     // Do any additional setup after loading the view.
 }
 
